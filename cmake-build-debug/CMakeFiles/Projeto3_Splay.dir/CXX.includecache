@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yago/CLionProjects/Projeto3_Splay/main.h
+
+/home/yago/CLionProjects/Projeto3_Splay/processamento.cpp
+iostream
+-
+fstream
+-
+string
+-
+splay.h
+/home/yago/CLionProjects/Projeto3_Splay/splay.h
+unordered_map
+-
+main.h
+/home/yago/CLionProjects/Projeto3_Splay/main.h
+processamento.h
+/home/yago/CLionProjects/Projeto3_Splay/processamento.h
+
+/home/yago/CLionProjects/Projeto3_Splay/processamento.h
+main.h
+/home/yago/CLionProjects/Projeto3_Splay/main.h
+
+/home/yago/CLionProjects/Projeto3_Splay/splay-impl.h
+splay.h
+/home/yago/CLionProjects/Projeto3_Splay/splay.h
+
+/home/yago/CLionProjects/Projeto3_Splay/splay.h
+splay-impl.h
+/home/yago/CLionProjects/Projeto3_Splay/splay-impl.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Projeto3_Splay.dir/main.cpp.o CMakeFiles/Projeto3_Splay.dir/processamento.cpp.o -o Projeto3_Splay 

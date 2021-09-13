@@ -1,0 +1,3 @@
+/home/yago/CLionProjects/Projeto3_Splay/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yago/CLionProjects/Projeto3_Splay/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yago/CLionProjects/Projeto3_Splay/cmake-build-debug/CMakeFiles/Projeto3_Splay.dir
